@@ -5,7 +5,7 @@
  */
 
 // Carga las funciones disponibles en monedas.js
-var monedas = require("../monedas.js");
+var monedas = require("desarrollo agil\\practicas\\dagil-2022-2023-practica-2a-jdmr0007-main\dagil-2022-2023-practica-2a-jdmr0007-main\monedas.js");
 
 /* 
 =================================================================
